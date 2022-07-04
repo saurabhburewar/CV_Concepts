@@ -16,3 +16,4 @@ This repository contains standard computer vision methods and algorithms.
 - Face verification
 - SLIC algorithm
 - Thin plate Spline algorithm
+- Given two images of an object from different alignments, find and plot 3D points.
