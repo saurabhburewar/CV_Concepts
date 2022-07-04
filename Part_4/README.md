@@ -1,1 +1,2 @@
-
+- SLIC algorithm
+- Thin plate Spline algorithm
