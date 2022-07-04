@@ -1,1 +1,1 @@
-
+- Given two images of an object from different alignments, find and plot 3D points.
