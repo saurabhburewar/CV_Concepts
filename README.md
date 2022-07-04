@@ -14,3 +14,5 @@ This repository contains standard computer vision methods and algorithms.
 - Image stitching (Making panorama image)
 - Image classification
 - Face verification
+- SLIC algorithm
+- Thin plate Spline algorithm
