@@ -1,1 +1,3 @@
-
+- Image filtering (fourier, wavelet)
+- Image inpainting
+- Image stitching (Making panorama image)
